@@ -1,10 +1,9 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "Finance"
-  text: "Web application for financial accounting"
+  text: "Веб-приложение для финансового учета"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -21,5 +20,5 @@ hero:
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #   - title: Feature C
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-# ---
+---
 
