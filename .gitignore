@@ -1,0 +1,33 @@
+# Общие настройки .NET
+bin/
+obj/
+
+# Настройки конфигурации пользователя
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Папка кэша NuGet
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Локальные настройки и файлы конфигурации
+appsettings*.json
+secrets.json
+.env
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Файлы для деплоя и публикации
+*.publish.xml
+*.deploy.cmd
+*.pubxml
+*.pubxml.user
